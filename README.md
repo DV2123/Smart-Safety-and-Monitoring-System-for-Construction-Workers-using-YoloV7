@@ -60,6 +60,4 @@ pip install -r requirements.txt
 - pipeline
 - app.py
 
-## License
 
-This project is released under the MIT License. See the LICENSE file for more details.
